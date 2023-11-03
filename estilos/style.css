@@ -59,4 +59,19 @@ div.campo {
     background-color: #5f2c82;
     margin: 5px;
     height: 30px;
+    border-radius: 5px;
 }
+
+span {
+    color: white;
+    font-size: 2em;
+}
+
+input {
+    background-color: rgb(94, 206, 202);
+    border-radius: 5px;
+    height: 100%;
+    width: 87%;
+    transform: translateY(-4px);
+}
+
