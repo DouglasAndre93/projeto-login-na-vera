@@ -8,18 +8,19 @@
     section#login {
         width: 80vw;
         height: 280px;
+        display: flex;
+        
+
     }
 
     div#foto {
-        display: block;
-        float: left;
+        
         height: 100%;
         width: 30%;
     }
 
     div#formulario {
-        display: block;
-        float: right;
+        
         height: 100%;
         width: 70%;
     }
@@ -33,18 +34,17 @@
     section#login {
         width: 70vw;
         height: 350px;
+        display: flex;
+        align-items: center;
+        flex-direction: row-reverse;
     }
 
     div#foto {
-        display: block;
-        float: right;
         height: 100%;
         width: 50%;
     }
 
     div#formulario {
-        display: block;
-        float: left;
         height: 100%;
         width: 50%;
     }
